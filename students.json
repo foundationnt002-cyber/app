@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Dilnoza",
+        "age": 21,
+        "courses": ["Python", "Database", "Math"]
+    },
+    {
+        "name": "Azizbek",
+        "age": 20,
+        "courses": ["Java", "Math", "Physics"]
+    },
+    {
+        "name": "Malika",
+        "age": 19,
+        "courses": ["Python", "English", "Database"]
+    },
+    {
+        "name": "Javohir",
+        "age": 22,
+        "courses": ["C++", "Math", "Algorithms"]
+    },
+    {
+        "name": "Madina",
+        "age": 21,
+        "courses": ["Python", "Web Development", "Database"]
+    },
+    {
+        "name": "Ulug‘bek",
+        "age": 23,
+        "courses": ["JavaScript", "Python", "Math"]
+    },
+    {
+        "name": "Gulnora",
+        "age": 20,
+        "courses": ["English", "Database", "AI"]
+    },
+    {
+        "name": "Sherzod",
+        "age": 22,
+        "courses": ["Python", "Data Science", "Math"]
+    },
+    {
+        "name": "Umida",
+        "age": 19,
+        "courses": ["C#", "Database", "Math"]
+    },
+    {
+        "name": "Oybek",
+        "age": 21,
+        "courses": ["Python", "Physics", "AI"]
+    },
+    {
+        "name": "Feruza",
+        "age": 20,
+        "courses": ["Java", "Math", "Web Development"]
+    },
+    {
+        "name": "Sardor",
+        "age": 23,
+        "courses": ["Python", "Database", "Cybersecurity"]
+    },
+    {
+        "name": "Nigora",
+        "age": 21,
+        "courses": ["AI", "Math", "Python"]
+    },
+    {
+        "name": "Zafar",
+        "age": 22,
+        "courses": ["Python", "Machine Learning", "Database"]
+    },
+    {
+        "name": "Malohat",
+        "age": 20,
+        "courses": ["C++", "English", "Math"]
+    },
+    {
+        "name": "Akmal",
+        "age": 19,
+        "courses": ["JavaScript", "Python", "Database"]
+    },
+    {
+        "name": "Nasiba",
+        "age": 21,
+        "courses": ["Python", "Math", "Web Development"]
+    },
+    {
+        "name": "Sherali",
+        "age": 23,
+        "courses": ["Java", "AI", "Math"]
+    },
+    {
+        "name": "Dilafruz",
+        "age": 22,
+        "courses": ["Python", "Data Science", "Algorithms"]
+    },
+    {
+        "name": "Behruz",
+        "age": 20,
+        "courses": ["C#", "Math", "Python"]
+    }
+]
